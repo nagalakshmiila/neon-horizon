@@ -1,0 +1,5 @@
+{
+  "name": "NEON_SNAKE_SYNTH",
+  "description": "A glitch-art cyber-snake simulation with integrated audio processing.",
+  "requestFramePermissions": []
+}
